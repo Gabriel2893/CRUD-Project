@@ -58,6 +58,7 @@ CREATE TABLE user (
 - Um botão de "Back" para voltar a visualizaçao completa da tabela
 - Um botao de "Clear fields" caso algo tenha sido digitado incorretamente otimizando assim a produtividade ao invés de pressionar a tecla backspace do teclado
 
+### 🖼️ Segue abaixo imagens da aplicação funcionando
 
 ![Imagem do WhatsApp de 2024-06-11 à(s) 20 14 01_ca4bf976](https://github.com/Gabriel2893/CRUD-Project/assets/146888502/1d9c0f99-13e6-46e6-8877-946aa1681edd)
 
