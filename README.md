@@ -2,7 +2,7 @@
 
 ## 📝 Sobre o projeto
 
-Nesse repositório você irá encontrar o codigo fonte de uma aplicaçao com interface gráfica desenvolvida 100% em Java e com integraçao com um banco de dados relacional (MySQL)
+Nesse repositório você irá encontrar o codigo fonte de uma aplicaçao com interface gráfica desenvolvida 100% em Java e com integraçao com um banco de dados relacional (MySQL) além tambem de utilizar o Swing para criação das interfaces gráficas
 
 > [!NOTE]
 > Objetivo: Oferecer ao cliente final um melhor manejo de usarios de seu serviço
