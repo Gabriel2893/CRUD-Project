@@ -59,6 +59,7 @@ CREATE TABLE user (
 - Um botao de "Clear fields" caso algo tenha sido digitado incorretamente otimizando assim a produtividade ao invés de pressionar a tecla backspace do teclado
 
 ### 🖼️ Segue abaixo imagens da aplicação funcionando
+##### Link para o video da aplicaçao funcionando: https://www.linkedin.com/feed/update/urn:li:activity:7206447205447065600/
 
 ![Imagem do WhatsApp de 2024-06-11 à(s) 20 14 01_ca4bf976](https://github.com/Gabriel2893/CRUD-Project/assets/146888502/1d9c0f99-13e6-46e6-8877-946aa1681edd)
 
