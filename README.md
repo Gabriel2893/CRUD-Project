@@ -73,7 +73,7 @@ CREATE TABLE user (
 
 In this repository you will find the source code for an application with a graphical interface developed 100% in Java and with integration with a relational database (MySQL) as well as using Swing to create the graphical interfaces.
 
-> NOTE
+> [!NOTE]
 > Objective: To offer the end customer better user management of their service
 
 ## 🤔 But what is a CRUD anyway?
